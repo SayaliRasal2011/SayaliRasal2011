@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SayaliRasal2011
-- 👀 I’m interested in various aspects of technology, particularly in the fields related to computer science and information technology.
-- 🌱 I am currently expanding my knowledge and skills through a Master of Computer Applications (MCA) degree.
+- 👀 I’m passionate about web development and have a keen interest in PHP, Laravel, and responsive front-end design.
+- 🌱 I am currently enhancing my skills through hands-on projects and have completed an internship focusing on PHP, HTML, CSS, JavaScript, Ajax, and MySQL.
 - 💞️ I’m looking to collaborate on projects or initiatives related to software development, front end design, or any other areas within the realm of computer science.
 - 📫 You can reach me via email at sayalirasal2011@gmail.com
 - 😄 Pronouns: she/her
